@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: 'Comfortaa', cursive;
+  padding: 1em;
+}
+
+.osztaly {
+  margin-bottom: 1em;
+}
+
+.osztaly h2 {
+  margin-bottom: 0.5em;
+}
+
+.osztaly p {
+  margin-bottom: 0.25em;
+}
